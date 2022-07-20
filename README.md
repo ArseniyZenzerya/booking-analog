@@ -40,7 +40,8 @@
 5) Після чого додати .env файл з вашими налаштуваннями бази даних, та mailtrap
 6) Згенерувати ключ <b>php artisan key:generate</b>
 7) Запустити міграції <b>php artisan migrate</b>
-8) npm run dev
+8) php artisan storage:link
+9) npm run dev
 
 ### Проект готовий до використання
 Тестування проекту проводилось на ОС Windows
